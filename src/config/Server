@@ -1,0 +1,5 @@
+hdfsPort = 4141
+hidoopPort = 4000
+daemonAdress = deamonadress
+pathToData = ./data
+nameNodeAdressPort = namenodeaddresse
